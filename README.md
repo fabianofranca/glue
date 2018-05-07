@@ -1,4 +1,8 @@
 # glue
+
+[![Release](https://jitpack.io/v/fabianofranca/glue.svg?style=flat-square)](https://jitpack.io/#fabianofranca/glue)
+
+
 Kotlin Data Binding Library for Android
 
 License
